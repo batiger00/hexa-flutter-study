@@ -1,4 +1,4 @@
-name: hot_taste_flutter
+name: enthusiasm_timer
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -29,7 +29,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  english_words: ^3.1.0
 
 
   # The following adds the Cupertino Icons font to your application.
